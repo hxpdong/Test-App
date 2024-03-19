@@ -123,6 +123,7 @@ return [
         'store' => env('APP_MAINTENANCE_STORE', 'database'),
     ],
 
+    /*this is edit in app.php: add providers*/
     'providers' => ServiceProvider::defaultProviders()->merge([
         /*
          * Package Service Providers...

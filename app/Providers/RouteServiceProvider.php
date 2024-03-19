@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Providers;
-
+/*this is file RouteServiceProvider, need to run api */
 use Illuminate\Cache\RateLimiting\Limit;
 use Illuminate\Foundation\Support\Providers\RouteServiceProvider as ServiceProvider;
 use Illuminate\Http\Request;
